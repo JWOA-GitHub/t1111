@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+//绑定远程仓库后的修改！！
+
 // a 分支的修改
 //第二次提交后的更改  
 // 第一次提交后的更改   a分支在同个文件的修改
