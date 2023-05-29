@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // a 分支的修改
-//第二次提交后的更改
-// 第一次提交后的更改
+//第二次提交后的更改  
+// 第一次提交后的更改   a分支在同个文件的修改
 public class Enemy : MonoBehaviour
 {
     public Transform wayPoint01, wayPoint02;
